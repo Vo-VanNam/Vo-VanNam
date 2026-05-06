@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">🙋 Hello! My name is Van-Nam Vo aka NVoz 🙌</h1>
+<h1 align="center">🙋 Hello! My name is Vu Huynh Vo aka Andrew Huynh 🙌</h1>
 
 ###
 
