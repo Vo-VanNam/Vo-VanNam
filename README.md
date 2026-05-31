@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm currently an AI Researcher 🧐 and a Free-Time Song Writer 🎶. I'm from Vietnam</p>
+<p align="left">I'm currently an AI Researcher/Engineer in Reasonary AI 🧐 and a Free-Time Song Writer 🎶. I'm from Vietnam</p>
 
 ###
 
